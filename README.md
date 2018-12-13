@@ -6,7 +6,7 @@ Ever-eager to learn and eventually contribute!
 
 I was a History/Politics major in London and am now attempting to optimise by doing a Master's in Quant-stuff in New York at Columbia. I have a side interest in Chinese history/China-related developments...a few links can be found here:
 
-[Trump Tweets on East Asia][http://blogs.lse.ac.uk/usappblog/2018/03/06/us-centre-2018-student-essay-competition-runner-up-looking-at-trumps-twitter-diplomacy-to-see-past-trends-and-the-outlook-for-american-foreign-policy-in-east-asia/]
+[Trump Tweets on East Asia](http://blogs.lse.ac.uk/usappblog/2018/03/06/us-centre-2018-student-essay-competition-runner-up-looking-at-trumps-twitter-diplomacy-to-see-past-trends-and-the-outlook-for-american-foreign-policy-in-east-asia/)
 
 [Internet policy developments in China](http://www.youngchinawatchers.com/2nd-lau-ycw-essay-competition-first-runner-up-chinas-cyber-public-space-the-double-edged-sword-linking-state-and-society/)
 
